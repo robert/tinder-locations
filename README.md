@@ -2,7 +2,7 @@
 
 The code from my blog post "How Tinder keeps your exact location (a bit) private".
 
-To run it and re-generate the image from the bottom of the post:
+To run the code and re-generate the image from the bottom of the post.
 
 <img src="https://github.com/robert/tinder-locations/blob/master/images/tinder-map.jpg?raw=true" />
 
